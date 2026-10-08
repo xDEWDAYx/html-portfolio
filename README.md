@@ -1,4 +1,4 @@
 # html-portfolio
-##Bla Bla Bla##
+## Bla Bla Bla
 
-###Mumbo Jumbo###
+### Mumbo Jumbo
